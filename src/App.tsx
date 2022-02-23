@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <header>
-        <span id="menu"><HiMenu /></span> {/*いらなくね?*/}
 
         <span id="title">Busiodle</span>
         <span></span>
