@@ -13,7 +13,7 @@ function App() {
       </header>
       <Game />
       <footer>
-
+      <h6 id="introduce">This game is copy of WORDLE. The original code was created by @Blu3mo, and Busiodle is a modified version of it.</h6>
       </footer>
     </>
   );

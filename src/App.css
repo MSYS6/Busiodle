@@ -87,3 +87,17 @@ header span {
 
   overflow-wrap: normal;
 }
+
+#title {
+  color: white;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+#introduce {
+  color: white;
+  font-weight: bold;
+  vertical-align: middle;
+  margin : 20px ;
+  padding : 10px ;
+}
